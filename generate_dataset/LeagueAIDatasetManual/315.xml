@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vayne</folder>
+	<filename>315.jpg</filename>
+	<path>/home/oli/Workspace/LeagueAI/Vayne/274.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vayne</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>500</xmin>
+			<ymin>355</ymin>
+			<xmax>627</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>
